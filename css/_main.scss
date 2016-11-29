@@ -1,0 +1,62 @@
+$color-foreground: rgba(0, 0, 0, 0.8);
+$color-dimmed: rgba(0, 0, 0, 0.6);
+$layout-max: 1280px;
+$layout-breakpoint: 800px;
+$layout-margin: 16px;
+
+body {
+  font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  color: $color-foreground;
+  font-size: 14px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 {
+  font-size: 1.4em;
+}
+
+h2 {
+  font-size: 1.2em;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  max-width: $layout-max;
+  margin: 0 auto;
+  box-sizing: border-box;
+  padding: 0 $layout-margin/2;
+}
+
+@media (min-width: $layout-breakpoint) {
+  .container {
+    flex-direction: row;
+  }
+}
+
+.col {
+  box-sizing: border-box;
+  padding: 0 $layout-margin/2;
+}
+
+.list {
+  list-style-type: none;
+  padding: 0;
+
+  li {
+    margin-bottom: 1em;
+  }
+}
+
+.year {
+  display: table-cell;
+  vertical-align: top;
+  width: 40px;
+  color: $color-dimmed;
+}
+
+.info {
+  display: table-cell;
+  vertical-align: top;
+}

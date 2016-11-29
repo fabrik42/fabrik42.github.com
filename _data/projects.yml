@@ -1,0 +1,15 @@
+- name: Mechanicon
+  description: Largest mechanical keyboard user meetup in Germany
+  url: https://www.meetup.com/Mechanical-Keyboard-Meetup-Rhein-Main/events/233445797
+
+- name: acts_as_api
+  description: Serialize different representations of Rails models for API responses
+  url: https://github.com/fabrik42/acts_as_api
+
+- name: Responsive Mockups
+  description: Automatic mockup generator, based on website screenshots
+  url: https://github.com/fabrik42/responsive_mockups
+
+- name: ffwdme.js
+  description: Interactive GPS driving directions for mobile browsers
+  url: https://ffwdmejs.org/

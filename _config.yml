@@ -1,24 +1,25 @@
-safe:        false
-auto:        true
-server:      false
-server_port: 4000
+title: Christian Bäuerlein
+email: fabrik42@gmail.com
+description: >
+  Hi! My name is Christian Bäuerlein,
+  a software developer living near Frankfurt in Germany.
 
-source:      .
-destination: ./_site
-plugins:     ./_plugins
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-future:      true
-lsi:         false
-pygments:    false
-markdown:    maruku
-permalink:   date
+# Build settings
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
 
-maruku:
-  use_tex:    false
-  use_divs:   false
-  png_engine: blahtex
-  png_dir:    images/latex
-  png_url:    /images/latex
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
 
-rdiscount:
-  extensions: []
+sass:
+    sass_dir: css
+    style: compressed

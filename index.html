@@ -1,33 +1,76 @@
 ---
-layout: default
-title: fabrik42 on GitHub
 ---
-<div class="col_l">
-	<h1>
-		Hi! My name is Christian Bäuerlein.
-	</h1>
-</div>
-<div class="col_r">
-	<a href="http://github.com/fabrik42" title="find me on github"><img src="./img/arrow_github.png" alt="find me on github" /></a>
-</div>
-<div class="col_l">
-	<h2>
-		I'm 25 years old and a graduated <a href="http://www.mas.h-da.de/msd">Media System Designer</a> living near Frankfurt/Germany.
-	</h2>
-	<p>
-		Because I'm passioned about web technologies, I <img id="love_icon" src="./img/icons/heart.png" alt="love" title="love" /> working on<br />
-		groundbreaking projects with great people and aim to create new<br />
-		experiences on the web.
-	</p>
-	<p>
-		At the moment I'm working for the fabulous tech start-up <strong><a href="http://www.flinc.org">flinc</a></strong>,<br />
-		 utilizing my favorite tools <strong>JavaScript</strong> and <strong>Ruby</strong>. :)
+<div class="container">
+  <div class="col">
+    <h1>
+      Hi! My name is Christian Bäuerlein.
+    </h1>
+
+    <p>
+      I'm a software developer living near Frankfurt/Germany.
     </p>
 
+    <p>
+      My passion is to work with great people,
+      solving real problems and building high quality software.
+    </p>
+
+    <p>
+      At the moment I'm working for the tech start-up
+      <a href="https://flinc.org">flinc</a>,
+      utilizing my favorite tools Ruby, Postgres and JavaScript.
+    </p>
+
+    <p>
+      You can always say hello at
+      <a href="mailto:{{site.email}}">{{site.email}}</a> or via
+      <a href="https://twitter.com/fabrik42">Twitter</a>,
+      <a href="https://www.linkedin.com/in/christian-b%C3%A4uerlein-a518bb26">LinkedIn</a>,
+      <a href="https://www.xing.com/profile/Christian_Baeuerlein3">XING</a>.
+    </p>
+  </div>
+
+  <div class="col">
+    <h2>Projects</h2>
+
+    <ul class="list">
+      {% for project in site.data.projects %}
+        <li>
+          <a href="{{project.url}}">{{project.name}}</a> {{project.description}}
+        </li>
+      {% endfor %}
+
+      <li>
+        You can find more of my projects on my
+        <a href="https://github.com/fabrik42">GitHub profile</a>.
+      </li>
+    </ul>
+
+    <h2>Talks</h2>
+
+    <ul class="list">
+      {% for talk in site.data.talks %}
+        <li>
+          <span class="year">{{talk.year}}</span>
+          <div class="info">
+            <a href="{{talk.slides_url}}">{{talk.title}}</a>
+            at <a href="{{talk.occasion_url}}">{{talk.occasion}}</a>
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
+
+    <h2>Articles</h2>
+    <ul class="list">
+      {% for article in site.data.articles %}
+        <li>
+          <div class="year">{{article.year}}</div>
+          <div class="info">
+            <a href="{{article.url}}">{{article.title}}</a>
+            via <a href="{{article.via_url}}">{{article.via}}</a>
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
 </div>
-<div class="col_r">
-	<a href="http://github.com/fabrik42" title="find me on github"><img src="./img/me_on_github.png" alt="find me on github" /></a>
-</div>
-
-
-
