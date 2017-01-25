@@ -1,3 +1,10 @@
+- year : 2017
+  date: 2017-01-24
+  title: Cleaner, scalable views with object oriented components
+  occasion: Frankfurt Ruby Meetup
+  occasion_url: https://www.meetup.com/Frankfurt-Ruby-Meetup/events/235435141/
+  slides_url: https://speakerdeck.com/fabrik42/cleaner-scalable-views-with-object-oriented-components
+
 - year : 2016
   date: 2016-02-04
   title: Headless Browser Experiments
