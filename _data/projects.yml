@@ -1,6 +1,10 @@
 - name: Mechanicon
   description: Largest mechanical keyboard user meetup in Germany
-  url: https://www.meetup.com/Mechanical-Keyboard-Meetup-Rhein-Main/events/233445797
+  url: https://www.meetup.com/Mechanical-Keyboard-Meetup-Rhein-Main
+
+- name: Elixir Rhein/Main Meetup
+  description: Elixir Meetup for Frankfurt and the Rhein/Main area
+  url: https://www.meetup.com/de-DE/Elixir-Meetup-Rhein-Main
 
 - name: acts_as_api
   description: Serialize different representations of Rails models for API responses
