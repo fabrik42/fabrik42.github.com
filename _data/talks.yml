@@ -1,3 +1,10 @@
+- year : 2018
+  date: 2018-04-19
+  title: Flocking Simulation with Phoenix Channels
+  occasion: Elixir Meetup Rhein/Main
+  occasion_url: https://www.meetup.com/de-DE/Elixir-Meetup-Rhein-Main/events/249386874/
+  slides_url: https://speakerdeck.com/fabrik42/flocking-simulation-with-phoenix-channels
+
 - year : 2017
   date: 2017-01-24
   title: Cleaner, scalable views with object oriented components
@@ -25,14 +32,14 @@
   occasion: Coding Night Frankfurt
   occasion_url: https://twitter.com/coding_night
   slides_url: https://speakerdeck.com/fabrik42/coding-night-2015
-  
+
 - year: 2012
   date: 2012-12-10
   title: Turn by Turn Navigation in the Browser
   occasion: RheinMainJS
   occasion_url: https://rheinmainjs.de/archive
   slides_url: https://speakerdeck.com/fabrik42/turn-by-turn-navigation-in-the-browser
-  
+
 - year: 2012
   date: 2012-06-22
   title: Introducing instantnavi.com
@@ -46,4 +53,3 @@
   occasion: Rails Camp Hamburg
   occasion_url: http://lanyrd.com/2011/rchh/
   slides_url: http://www.slideshare.net/fabrik42/facebook-is-your-cms/
-
