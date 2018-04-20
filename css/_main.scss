@@ -42,6 +42,7 @@ h2 {
 .col {
   box-sizing: border-box;
   padding: 0 $layout-margin;
+  flex: 1;
 }
 
 .list {
