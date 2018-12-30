@@ -6,6 +6,13 @@
   slides_url: https://speakerdeck.com/fabrik42/rails-api-only-considerations
 
 - year : 2018
+  date: 2018-10-11
+  title: Org-Mode
+  occasion: ioki Lunchtalks
+  occasion_url: https://ioki.com
+  slides_url: https://speakerdeck.com/fabrik42/org-mode
+
+- year : 2018
   date: 2018-04-19
   title: Flocking Simulation with Phoenix Channels
   occasion: Elixir Meetup Rhein/Main

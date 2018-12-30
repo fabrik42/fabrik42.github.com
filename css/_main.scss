@@ -14,13 +14,13 @@ body {
 }
 
 h1 {
-  font-size: 1.4em;
+  font-size: 1.4rem;
   line-height: $header-height;
   margin: $header-height 0;
 }
 
 h2 {
-  font-size: 1.2em;
+  font-size: 1.2rem;
   line-height: $header-height;
   margin: $header-height 0;
 }
@@ -43,6 +43,23 @@ h2 {
   box-sizing: border-box;
   padding: 0 $layout-margin;
   flex: 1;
+}
+
+.media {
+  display: flex;
+  align-items: flex-start;
+
+  .media-figure {
+    margin-right: $layout-margin;
+
+    img {
+      max-height: 14em;
+    }
+  }
+
+  .media-body {
+    flex: 1;
+  }
 }
 
 .list {

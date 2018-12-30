@@ -6,6 +6,10 @@
   description: Elixir Meetup for Frankfurt and the Rhein/Main area
   url: https://www.meetup.com/de-DE/Elixir-Meetup-Rhein-Main
 
+- name: CNDY
+  description: A hyperlocal crypto asset ecosystem to buy candy!
+  url: https://github.com/cndy-store
+
 - name: acts_as_api
   description: Serialize different representations of Rails models for API responses
   url: https://github.com/fabrik42/acts_as_api
