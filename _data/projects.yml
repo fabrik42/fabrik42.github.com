@@ -6,6 +6,18 @@
   description: Elixir Meetup for Frankfurt and the Rhein/Main area
   url: https://www.meetup.com/de-DE/Elixir-Meetup-Rhein-Main
 
+- name: Emacs FFM Meetup
+  description: Emacs Meetup for Frankfurt and the Rhein/Main area
+  url: https://www.meetup.com/de-DE/emacs-ffm
+
+- name: My Emacs configuration
+  description: Org files producing website, config files and my theme
+  url: https://emacs.christianbaeuerlein.com
+
+- name: Writing an interpreter in Elixir
+  description: Elixir implementation of the Monkey programming language
+  url: https://github.com/fabrik42/writing_an_interpreter_in_elixir
+
 - name: CNDY
   description: A hyperlocal crypto asset ecosystem to buy candy!
   url: https://github.com/cndy-store
