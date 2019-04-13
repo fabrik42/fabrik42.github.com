@@ -1,4 +1,11 @@
 - year : 2019
+  date: 2019-04-10
+  title: Phoenix LiveView
+  occasion: Elixir Meetup Rhein/Main
+  occasion_url: https://www.meetup.com/de-DE/Elixir-Meetup-Rhein-Main/events/259902189
+  slides_url: https://speakerdeck.com/fabrik42/phoenix-live-view
+
+- year : 2019
   date: 2019-01-14
   title: Mobility On Demand und der ÖPNV (German, Video)
   occasion: Webmontag Frankfurt
