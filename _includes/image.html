@@ -1,0 +1,6 @@
+<figure class="article-image">
+  <a href="{{ include.url }}" alt="{{ include.description }}" target="_blank">
+    <img src="{{ include.url | replace_first: '.jpg', '_w800.jpg' | replace_first: '.png', '_w800.png' }}" alt="{{ include.description }}">
+  </a>
+  <figcaption>{{ include.description }}</figcaption>
+</figure>

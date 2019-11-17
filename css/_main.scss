@@ -1,6 +1,7 @@
 $color-foreground: rgba(0, 0, 0, 0.8);
 $color-dimmed: rgba(0, 0, 0, 0.6);
 $layout-max: 1280px;
+$layout-max-post: 800px;
 $layout-breakpoint: 800px;
 $layout-margin: 20px;
 $header-height: 20px;
@@ -31,6 +32,10 @@ h2 {
   max-width: $layout-max;
   margin: 0 auto;
   box-sizing: border-box;
+
+  &.post {
+    max-width: $layout-max-post;
+  }
 }
 
 @media (min-width: $layout-breakpoint) {
@@ -81,4 +86,28 @@ h2 {
 .info {
   display: table-cell;
   vertical-align: top;
+}
+
+.container.post {
+  line-height: 1.4;
+
+  .article-image {
+    margin: 1em 0px;
+
+    img {
+      max-width: 100%;
+    }
+
+    figcaption {
+      font-size: 0.8em;
+      font-weight: bold;
+      font-style: italic;
+      text-align: right;
+    }
+  }
+
+  code {
+    font-weight: bold;
+
+  }
 }
