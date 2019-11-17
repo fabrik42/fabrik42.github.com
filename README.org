@@ -1,0 +1,7 @@
+* Build notes
+** Creating thumbs for articles
+#+begin_src sh
+cd ./assets/uhk-review
+convert "*.jpg" -resize 800x -set filename:area "%t_w800" %[filename:area].jpg
+convert "*.png" -resize 800x -set filename:area "%t_w800" %[filename:area].png
+#+end_src
