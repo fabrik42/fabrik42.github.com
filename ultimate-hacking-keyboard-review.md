@@ -19,7 +19,7 @@ The UHK is the first split keyboard that I will use for a longer period of time.
 
 When deciding for a keyboard I am really looking for top notch build quality. My daily drivers have mostly been from [Leopold](https://deskthority.net/wiki/Leopold_FC660C) or [Filco](https://www.keyboardco.com/keyboard/usa-filco-ninja-majestouch-2-tenkeyless-nkr-tactile-action-keyboard.asp).
 
-I need my keyboard to make me as productive as possible in editing text, be it in the browser, my [email programm](https://freron.com/) or in my [text editor](https://www.spacemacs.org). My whole [organization workflow](https://orgmode.org/) is completely keyboard based and I invested quite a lot of time to [get it just the way I want it](https://emacs.christianbaeuerlein.com/my-org-config.html).
+I need my keyboard to make me as productive as possible in editing text, be it in the browser, my [email application](https://freron.com/) or in my [text editor](https://www.spacemacs.org). My whole [organization workflow](https://orgmode.org/) is completely keyboard based and I invested quite a lot of time to [get it just the way I want it](https://emacs.christianbaeuerlein.com/my-org-config.html).
 
 So when a product like UHK advertises deep configurability this means quite something for me. It has to prove that it deserves to be considered in the hours of hours of fine-tuning my setup.
 
@@ -57,9 +57,9 @@ Again, the manual for this is very good and precise.
 
 {% include image.html url="./assets/uhk-review/back_0180.jpg" description="The back side of the keyboard" %}
 
-The alignment of the components before fixation is pretty straigtforward. There is always some knob or cavity that helps to site them properly.
+The alignment of the components before fixation is pretty straigtforward. There is always some knob or cavity that helps to set them properly.
 
-The fixation itself is a bit trickier than anticipated. The UHK tutorial even provides a video how to drive screws into plastic. But to be honest, I didn't get it - it says the screw should click(?), never clicked for me though (pun intended).
+The fixation itself is a bit trickier than anticipated. The UHK tutorial even [provides a video](https://www.youtube.com/watch?v=J3aGynmGvfo) how to drive screws into plastic. But to be honest, I didn't get it - it says the screw should click(?), never clicked for me though (pun intended).
 
 The screws are very tiny and I am very proud of myself that I didn't let one slip off my desk. I still appreciate that they threw in three extra screws to prevent possible frustration in case of losing one.
 
@@ -131,7 +131,7 @@ The UHK supports multiple keymaps and you can use shortcuts to switch between QW
 
 The UHK comes with three small fourteen segment displays built into the case. As far as I could find out they are only capable of showing the current keymap. Otherwise they are rather useless for now.
 
-[There are amibitons to make them more interesting](https://github.com/UltimateHackingKeyboard/agent/issues/660), which is good, because I don't need to see that I use Mac QWERTY all the time. I hope for this to arriva sooner than later. Until then it is just a bit weird that you have such a prominent component to show only such a specific detail.
+[There are amibitons to make them more interesting](https://github.com/UltimateHackingKeyboard/agent/issues/660), which is good, because I don't need to see that I use Mac QWERTY all the time. I hope for this to arrive sooner than later. Until then it is just a bit weird that you have such a prominent component to show only such a specific detail.
 
 {% include image.html url="./assets/uhk-review/lol_0364.jpg" description="Display shows your current keymap, not more, not less" %}
 
@@ -139,7 +139,7 @@ Lifehack: The three letter abbreviation that you can see can be changed in the U
 
 At the first look, I didn't like the small extra buttons on the bottom of the case. But since I am in severe need for extra keys I start to appreciate them. They feel like a mouse key, yet work pretty good as modifier keys.
 
-The Agent has an auto update which will alert you, when a new version is available. I wonder if it will also alert you for firmware updates for the keyboard, but I can't find a hint in the software.
+The Agent has an auto update which will alert you, when a new version is available. In the future new versions of the UHK Agent will also ship with new firmware versions for the keyboard.
 
 To sum it up: UHK Agent is pretty awesome overall. It did exactly what I wanted it to do.
 
@@ -184,6 +184,8 @@ Leopold keycaps are my personal standard for off-the-shelf keyboards. And you ca
 UHK provides you with an [extensive guide on the keycaps and layout](https://ultimatehackingkeyboard.com/layout-and-keycaps) which is very cool for people that want to use their own keycaps instead. However, since it is a split layout there will be some struggle involved when looking for alternative keycaps (e.g. due to the split space bar).
 
 I get that better keycaps would make the UHK even more pricier and maybe a lot of people are ok with the default keycaps. Due to the exotic layout, I still would wish UHK would provide an upgrade option to get better keycaps.
+
+*Update: I got told that UHK actually plans to provide PBT keycaps eventually. I really anticipate it and hope for an upgrade kit!*
 
 ## Open Source / Repairability
 
