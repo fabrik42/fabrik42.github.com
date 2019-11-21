@@ -9,7 +9,7 @@ permalink: /ultimate-hacking-keyboard-review
 
 {% include image.html url="./assets/uhk-review/desk_0373.jpg" description="The UHK at my desk" %}
 
-I have been monitoring the **Ultimate Hacking Keyboard** since it started its [crowd-funding campaign](https://www.crowdsupply.com/ugl/ultimate-hacking-keyboard) and always wanted to try one. I was very happy when László visited us at the [Mechanicon 2018](https://www.meetup.com/de-DE/Mechanical-Keyboard-Meetup-Rhein-Main/events/253901061/). He gave a super interesting talk and of course brought some UHKs. I tried them and they have been on my bucket list ever since.
+I have been monitoring the [Ultimate Hacking Keyboard](https://ultimatehackingkeyboard.com) since it started its crowd-funding campaign and always wanted to try one. I was very happy when László visited us at the [Mechanicon 2018](https://www.meetup.com/de-DE/Mechanical-Keyboard-Meetup-Rhein-Main/events/253901061/). He gave a super interesting talk and of course brought some UHKs. I tried them and they have been on my bucket list ever since.
 
 A short while ago, I moved into a new apartment. I am very interested in ergonomics for people like me: power users that spend a lot of time working in front of a computer. So this was a good opportunity to level up my home office ergonomics game. A new chair, a standing desk and ... a split keyboard.
 
