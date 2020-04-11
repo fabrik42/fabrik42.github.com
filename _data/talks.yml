@@ -1,3 +1,10 @@
+- year : 2020
+  date: 2020-03-26
+  title: Single File Ruby Programs
+  occasion: Frankfurt Ruby Meetup
+  occasion_url: https://www.meetup.com/de-DE/Frankfurt-Ruby-Meetup/events/269346828
+  slides_url: https://speakerdeck.com/fabrik42/single-file-ruby-programs
+
 - year : 2019
   date: 2019-04-10
   title: Phoenix LiveView
