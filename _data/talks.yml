@@ -1,4 +1,11 @@
 - year : 2020
+  date: 2020-05-07
+  title: Single File Ruby Programs (Video)
+  occasion: Ruby User Group Berlin
+  occasion_url: https://www.rug-b.de/topics/the-lost-art-of-single-file-ruby-programs-858
+  slides_url: https://www.youtube.com/watch?v=-n-sdy0TOpc
+
+- year : 2020
   date: 2020-03-26
   title: Single File Ruby Programs
   occasion: Frankfurt Ruby Meetup
