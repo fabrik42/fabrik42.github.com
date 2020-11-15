@@ -48,11 +48,25 @@
   slides_url: https://speakerdeck.com/fabrik42/flocking-simulation-with-phoenix-channels
 
 - year : 2017
+  date: 2017-10-14
+  title: Cherry Documentation about Mechanicon (Video)
+  occasion: Mechanicon 2017
+  occasion_url: https://www.meetup.com/de-DE/Mechanical-Keyboard-Meetup-Rhein-Main/events/240842117/
+  slides_url: https://www.youtube.com/watch?v=fSwf62mqQ7Y
+
+- year : 2017
   date: 2017-01-24
   title: Cleaner, scalable views with object oriented components
   occasion: Frankfurt Ruby Meetup
   occasion_url: https://www.meetup.com/Frankfurt-Ruby-Meetup/events/235435141/
   slides_url: https://speakerdeck.com/fabrik42/cleaner-scalable-views-with-object-oriented-components
+
+- year : 2016
+  date: 2016-10-01
+  title: Mechanicon Impressions by Mecha-Blog (Video)
+  occasion: Mechanicon 2016
+  occasion_url: https://www.meetup.com/de-DE/Mechanical-Keyboard-Meetup-Rhein-Main/events/233445797/
+  slides_url: https://www.youtube.com/watch?v=Om9puRhKMc8
 
 - year : 2016
   date: 2016-02-04
