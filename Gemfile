@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 ruby RUBY_VERSION
 
-gem 'jekyll', '~>3.8'
+gem 'jekyll', '~> 4.3'
 gem 'kramdown-parser-gfm'
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
