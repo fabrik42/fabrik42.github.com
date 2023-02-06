@@ -11,7 +11,7 @@
   url: https://www.meetup.com/de-DE/emacs-ffm
 
 - name: My Emacs configuration
-  description: Org files producing website, config files and my theme
+  description: Literal programming producing my config files
   url: https://emacs.christianbaeuerlein.com
 
 - name: Writing an interpreter in Elixir
